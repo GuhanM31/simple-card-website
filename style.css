@@ -1,0 +1,92 @@
+ * {
+    margin: 0;
+    padding: 0;
+    
+ }
+
+ .heading {
+   margin-top: 30px;
+ }
+ .heading__title {
+
+    text-align: center;
+ }
+
+ .heading__title__h1 {
+    background-color: #F885C2;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+ }
+
+ .card {
+   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 60px;
+    margin-top: 100px;
+ }
+
+ .card__c1{
+   background-color: black;
+   color: white;
+   padding: 20px;
+   width: 200px;
+   height: 250px;
+   text-align: center;
+   border-radius: 10px;
+
+ }
+
+ .card__c2{
+   background-color: black;
+   color: white;
+   padding: 20px;
+   width: 200px;
+   height: 250px;
+   text-align: center;
+   border-radius: 10px;
+   
+
+ }
+
+ .card__c3{
+   background-color: black;
+   color: white;
+   padding: 20px;
+   width: 200px;
+   height: 250px;
+   text-align: center;
+   border-radius: 10px;
+   
+
+ }
+
+ .card__c1__one__desc{
+   border: white 2px solid;
+   padding: 10px;
+   border-radius: 10px;
+   margin-top: 20px;
+   text-align: start;
+
+   
+ }
+
+ .card__c2__two__desc{
+   border: white 2px solid;
+   padding: 10px;
+   border-radius: 10px;
+   margin-top: 20px;
+   text-align: start;
+ }
+
+ .card__c3__three__desc{
+   border: white 2px solid;
+   padding: 10px;
+   border-radius: 10px;
+   margin-top: 20px;
+   text-align: start;
+ }
